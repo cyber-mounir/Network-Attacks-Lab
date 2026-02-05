@@ -23,3 +23,5 @@ MAC Flooding fills the switch CAM table with fake MAC addresses...
 ## Defense
 - Port Security
 - MAC address limiting
+
+###This attack is used as a preparation step for MITM attacks
